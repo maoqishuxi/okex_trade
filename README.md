@@ -5,7 +5,7 @@
 
 # 配置文件
 
-<code>
+<pre>
 {
     "initial_base_price": 230,
     "is_change": -1,
@@ -23,3 +23,4 @@ percent_up_sell表示每上涨多少卖出
 quantity_buy表示买入数量
 quantity_sell表示卖出数量
 
+基于开源MIT协议
